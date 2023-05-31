@@ -24,7 +24,7 @@ releases:
     latestReleaseDate: 2023-05-16
     releaseDate: 2020-12-17
 -   releaseCycle: "1.10"
-    eol: 2021-07-17
+    eol: 2021-06-17
     releaseDate: 2018-08-27
     latest: "1.10.15"
     latestReleaseDate: 2021-03-17
